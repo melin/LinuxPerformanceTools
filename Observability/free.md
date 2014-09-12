@@ -11,6 +11,7 @@ free：显示内存的使用情况，包括实体内存，虚拟的交换文件�
 - -t 　显示内存总和列。
 - -V 　显示版本信息。
 
+![](https://raw.githubusercontent.com/melin/LinuxPerformanceTools/master/images/free.jpg)
 
 参考资料：
 
